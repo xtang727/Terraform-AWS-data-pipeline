@@ -1,0 +1,5 @@
+spotipy
+boto3
+jupyter
+pydantic
+python-dotenv
